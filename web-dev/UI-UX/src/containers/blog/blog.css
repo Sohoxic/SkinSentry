@@ -29,9 +29,9 @@
 
 .gpt3__blog-container_groupB {
     flex: 1;
-
+    white-space: pre-line;
     display:grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 2rem;
 }
 
